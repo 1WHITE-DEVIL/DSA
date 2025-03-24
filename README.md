@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/1WHITE-DEVIL/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
