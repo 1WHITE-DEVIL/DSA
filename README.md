@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/1WHITE-DEVIL/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
