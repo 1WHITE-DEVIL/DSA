@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0125-valid-palindrome](https://github.com/1WHITE-DEVIL/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
