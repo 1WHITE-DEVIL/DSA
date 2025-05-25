@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/1WHITE-DEVIL/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/1WHITE-DEVIL/DSA/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
