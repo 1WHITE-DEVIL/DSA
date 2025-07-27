@@ -15,7 +15,8 @@ public:
     for (int i = 1; i < filtered.size() - 1; ++i) {
         if (filtered[i] > filtered[i - 1] && filtered[i] > filtered[i + 1]) {
             count++; // Hill
-        } else if (filtered[i] < filtered[i - 1] && filtered[i] < filtered[i + 1]) {
+        } 
+        else if (filtered[i] < filtered[i - 1] && filtered[i] < filtered[i + 1]) {
             count++; // Valley
         }
     }
