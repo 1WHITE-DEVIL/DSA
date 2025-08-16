@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/1WHITE-DEVIL/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/1WHITE-DEVIL/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
