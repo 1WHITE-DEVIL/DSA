@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/1WHITE-DEVIL/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/1WHITE-DEVIL/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/1WHITE-DEVIL/DSA/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/1WHITE-DEVIL/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 ## Counting
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/1WHITE-DEVIL/DSA/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/1WHITE-DEVIL/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/1WHITE-DEVIL/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/1WHITE-DEVIL/DSA/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/1WHITE-DEVIL/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/1WHITE-DEVIL/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
