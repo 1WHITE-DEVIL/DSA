@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/1WHITE-DEVIL/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/1WHITE-DEVIL/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/1WHITE-DEVIL/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
