@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/1WHITE-DEVIL/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
+| [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/1WHITE-DEVIL/DSA/tree/master/1390-four-divisors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/1WHITE-DEVIL/DSA/tree/master/1390-four-divisors) |
 | [2032-largest-odd-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
