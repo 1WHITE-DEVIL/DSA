@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [3453-separate-squares-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
+| [3453-separate-squares-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3453-separate-squares-i) |
 ## String
 |  |
 | ------- |
