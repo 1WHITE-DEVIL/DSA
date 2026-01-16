@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/1WHITE-DEVIL/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/1WHITE-DEVIL/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/1WHITE-DEVIL/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/1WHITE-DEVIL/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/1WHITE-DEVIL/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/1WHITE-DEVIL/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/1WHITE-DEVIL/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
