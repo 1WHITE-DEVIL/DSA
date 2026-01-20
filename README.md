@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/1WHITE-DEVIL/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/1WHITE-DEVIL/DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/1WHITE-DEVIL/DSA/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/1WHITE-DEVIL/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0338-counting-bits) |
