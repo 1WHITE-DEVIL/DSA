@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/1WHITE-DEVIL/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/1WHITE-DEVIL/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/1WHITE-DEVIL/DSA/tree/master/0053-maximum-subarray) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/1WHITE-DEVIL/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/1WHITE-DEVIL/DSA/tree/master/0141-linked-list-cycle) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/1WHITE-DEVIL/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/1WHITE-DEVIL/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/1WHITE-DEVIL/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1WHITE-DEVIL/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sliding Window
 |  |
