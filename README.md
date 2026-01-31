@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/1WHITE-DEVIL/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1WHITE-DEVIL/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/1WHITE-DEVIL/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/1WHITE-DEVIL/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/1WHITE-DEVIL/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/1WHITE-DEVIL/DSA/tree/master/0371-sum-of-two-integers) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/1WHITE-DEVIL/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/1WHITE-DEVIL/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/1WHITE-DEVIL/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
