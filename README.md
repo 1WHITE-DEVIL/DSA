@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/1WHITE-DEVIL/DSA/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/1WHITE-DEVIL/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
+| [1046-last-stone-weight](https://github.com/1WHITE-DEVIL/DSA/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/1WHITE-DEVIL/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/1WHITE-DEVIL/DSA/tree/master/1390-four-divisors) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1WHITE-DEVIL/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/1WHITE-DEVIL/DSA/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
