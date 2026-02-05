@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1WHITE-DEVIL/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3379-transformed-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1929-concatenation-of-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3379-transformed-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3379-transformed-array) |
 ## Matrix
 |  |
 | ------- |
