@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3453-separate-squares-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1200-minimum-absolute-difference](https://github.com/1WHITE-DEVIL/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1WHITE-DEVIL/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1WHITE-DEVIL/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1WHITE-DEVIL/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search Tree
 |  |
 | ------- |
