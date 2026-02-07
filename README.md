@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/1WHITE-DEVIL/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/1WHITE-DEVIL/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
 | ------- |
