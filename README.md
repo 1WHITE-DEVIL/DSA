@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/1WHITE-DEVIL/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/1WHITE-DEVIL/DSA/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/1WHITE-DEVIL/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/1WHITE-DEVIL/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/1WHITE-DEVIL/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0202-happy-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/1WHITE-DEVIL/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/1WHITE-DEVIL/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/1WHITE-DEVIL/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/1WHITE-DEVIL/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/1WHITE-DEVIL/DSA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3379-transformed-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3379-transformed-array) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/1WHITE-DEVIL/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/1WHITE-DEVIL/DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/1WHITE-DEVIL/DSA/tree/master/0222-count-complete-tree-nodes) |
