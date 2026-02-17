@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/1WHITE-DEVIL/DSA/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/1WHITE-DEVIL/DSA/tree/master/0401-binary-watch) |
 ## Counting
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/1WHITE-DEVIL/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/1WHITE-DEVIL/DSA/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/1WHITE-DEVIL/DSA/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
