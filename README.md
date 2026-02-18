@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/1WHITE-DEVIL/DSA/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/1WHITE-DEVIL/DSA/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 ## Counting
 |  |
 | ------- |
