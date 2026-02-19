@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1WHITE-DEVIL/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0696-count-binary-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/1WHITE-DEVIL/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0696-count-binary-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
