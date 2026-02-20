@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/1WHITE-DEVIL/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/1WHITE-DEVIL/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
+| [0853-car-fleet](https://github.com/1WHITE-DEVIL/DSA/tree/master/0853-car-fleet) |
 | [1046-last-stone-weight](https://github.com/1WHITE-DEVIL/DSA/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/1WHITE-DEVIL/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/1WHITE-DEVIL/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
+| [0853-car-fleet](https://github.com/1WHITE-DEVIL/DSA/tree/master/0853-car-fleet) |
 | [1200-minimum-absolute-difference](https://github.com/1WHITE-DEVIL/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1WHITE-DEVIL/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/1WHITE-DEVIL/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/1WHITE-DEVIL/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/1WHITE-DEVIL/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/1WHITE-DEVIL/DSA/tree/master/0853-car-fleet) |
 | [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/1WHITE-DEVIL/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/1WHITE-DEVIL/DSA/tree/master/0853-car-fleet) |
 ## Sliding Window
 |  |
 | ------- |
