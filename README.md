@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0696-count-binary-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1WHITE-DEVIL/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1WHITE-DEVIL/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1WHITE-DEVIL/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0693-binary-number-with-alternating-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/1WHITE-DEVIL/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/1WHITE-DEVIL/DSA/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1WHITE-DEVIL/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Counting
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/1WHITE-DEVIL/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1WHITE-DEVIL/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1WHITE-DEVIL/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
