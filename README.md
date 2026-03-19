@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1WHITE-DEVIL/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1WHITE-DEVIL/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3379-transformed-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3453-separate-squares-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1WHITE-DEVIL/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/1WHITE-DEVIL/DSA/tree/master/0238-product-of-array-except-self) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1WHITE-DEVIL/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
 |  |
