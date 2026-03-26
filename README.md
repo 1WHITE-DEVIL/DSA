@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/1WHITE-DEVIL/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/1WHITE-DEVIL/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/1WHITE-DEVIL/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1WHITE-DEVIL/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/1WHITE-DEVIL/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/1WHITE-DEVIL/DSA/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/1WHITE-DEVIL/DSA/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
