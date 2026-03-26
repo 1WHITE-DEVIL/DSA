@@ -1,15 +1,34 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> arr(n ,0);
+        int allNums[101] = {0};
 
-        for(int num :nums){
-            for(int j = 0 ; j<n ;j++){
-                if(nums[j]>num) arr[arr[j]++];
+        // Result array. res[i] = count of numbers strictly smaller than nums[i].
+        vector<int> res(nums.size(), 0);
+
+        // 1) Count frequency of each number in nums.
+        for (int v : nums) {
+            allNums[v]++;
+        }
+
+        // 2) Convert frequency array into a prefix sum array.
+        // After this loop: allNums[v] = number of elements <= v.
+        for (int v = 1; v < 101; ++v) {
+            allNums[v] += allNums[v - 1];
+        }
+
+        // 3) Build the result using if-else (no ternary).
+        for (size_t i = 0; i < nums.size(); ++i) {
+            int v = nums[i];
+            if (v == 0) {
+                // If value is 0, no smaller numbers exist.
+                res[i] = 0;
+            } else {
+                // Otherwise, count of numbers strictly less than v.
+                res[i] = allNums[v - 1];
             }
-     
-       }
-       return arr;
+        }
+
+        return res;
     }
 };
