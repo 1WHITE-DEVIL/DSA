@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1WHITE-DEVIL/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/1WHITE-DEVIL/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1WHITE-DEVIL/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1WHITE-DEVIL/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/1WHITE-DEVIL/DSA/tree/master/1390-four-divisors) |
 | [2032-largest-odd-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/1WHITE-DEVIL/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/1WHITE-DEVIL/DSA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/1WHITE-DEVIL/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3379-transformed-array) |
 ## Matrix
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/1WHITE-DEVIL/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1WHITE-DEVIL/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/1WHITE-DEVIL/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
