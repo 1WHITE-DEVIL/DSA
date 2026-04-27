@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/1WHITE-DEVIL/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/1WHITE-DEVIL/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/1WHITE-DEVIL/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/1WHITE-DEVIL/DSA/tree/master/0853-car-fleet) |
 | [1200-minimum-absolute-difference](https://github.com/1WHITE-DEVIL/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/1WHITE-DEVIL/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/1WHITE-DEVIL/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/1WHITE-DEVIL/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1WHITE-DEVIL/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/1WHITE-DEVIL/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1WHITE-DEVIL/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/1WHITE-DEVIL/DSA/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -458,4 +464,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
