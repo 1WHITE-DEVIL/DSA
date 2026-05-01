@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/1WHITE-DEVIL/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/1WHITE-DEVIL/DSA/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/1WHITE-DEVIL/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/1WHITE-DEVIL/DSA/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/1WHITE-DEVIL/DSA/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/1WHITE-DEVIL/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/1WHITE-DEVIL/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/1WHITE-DEVIL/DSA/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/1143-longest-common-subsequence) |
