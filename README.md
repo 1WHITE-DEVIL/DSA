@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/1WHITE-DEVIL/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1WHITE-DEVIL/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/1WHITE-DEVIL/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
