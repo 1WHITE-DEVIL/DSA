@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/1WHITE-DEVIL/DSA/tree/master/1390-four-divisors) |
+| [1861-rotating-the-box](https://github.com/1WHITE-DEVIL/DSA/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0696-count-binary-substrings) |
+| [1861-rotating-the-box](https://github.com/1WHITE-DEVIL/DSA/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/1WHITE-DEVIL/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/1WHITE-DEVIL/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1861-rotating-the-box](https://github.com/1WHITE-DEVIL/DSA/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/1WHITE-DEVIL/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1WHITE-DEVIL/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
