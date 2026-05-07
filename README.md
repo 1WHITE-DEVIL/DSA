@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3453-separate-squares-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3453-separate-squares-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/1WHITE-DEVIL/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3660-jump-game-ix](https://github.com/1WHITE-DEVIL/DSA/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3660-jump-game-ix](https://github.com/1WHITE-DEVIL/DSA/tree/master/3660-jump-game-ix) |
 ## Recursion
 |  |
 | ------- |
