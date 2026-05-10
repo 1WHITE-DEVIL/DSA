@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1WHITE-DEVIL/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/1WHITE-DEVIL/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/1WHITE-DEVIL/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1WHITE-DEVIL/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/1WHITE-DEVIL/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/1WHITE-DEVIL/DSA/tree/master/3660-jump-game-ix) |
 ## Recursion
 |  |
