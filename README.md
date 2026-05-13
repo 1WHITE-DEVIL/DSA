@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/1WHITE-DEVIL/DSA/tree/master/1390-four-divisors) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/1WHITE-DEVIL/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/1WHITE-DEVIL/DSA/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/1WHITE-DEVIL/DSA/tree/master/1914-cyclically-rotating-a-grid) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1WHITE-DEVIL/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/1WHITE-DEVIL/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1WHITE-DEVIL/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/1WHITE-DEVIL/DSA/tree/master/0238-product-of-array-except-self) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/1WHITE-DEVIL/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1WHITE-DEVIL/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
