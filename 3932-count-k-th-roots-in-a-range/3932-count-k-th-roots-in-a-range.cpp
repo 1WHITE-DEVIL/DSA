@@ -9,6 +9,7 @@ public:
         long long val =1;
         for(int i = 0 ;i<k ; i++){
             val *= x;
+            if(val>r) break;
         }
         
         if (val>=l && val<=r)  // your condition
