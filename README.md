@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/1WHITE-DEVIL/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/1WHITE-DEVIL/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/1WHITE-DEVIL/DSA/tree/master/0048-rotate-image) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/1WHITE-DEVIL/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/1WHITE-DEVIL/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/1WHITE-DEVIL/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
