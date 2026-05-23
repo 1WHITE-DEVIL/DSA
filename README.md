@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/1WHITE-DEVIL/DSA/tree/master/1390-four-divisors) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/1WHITE-DEVIL/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/1WHITE-DEVIL/DSA/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/1WHITE-DEVIL/DSA/tree/master/1914-cyclically-rotating-a-grid) |
