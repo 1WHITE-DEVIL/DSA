@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/1WHITE-DEVIL/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/1WHITE-DEVIL/DSA/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1WHITE-DEVIL/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
