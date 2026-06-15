@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/1WHITE-DEVIL/DSA/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/1WHITE-DEVIL/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/1WHITE-DEVIL/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
