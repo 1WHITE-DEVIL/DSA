@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/1WHITE-DEVIL/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/1WHITE-DEVIL/DSA/tree/master/3838-weighted-word-mapping) |
 ## Stack
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/1WHITE-DEVIL/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/3379-transformed-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/1WHITE-DEVIL/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/1WHITE-DEVIL/DSA/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
