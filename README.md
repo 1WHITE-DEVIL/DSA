@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/1WHITE-DEVIL/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1WHITE-DEVIL/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1WHITE-DEVIL/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/1WHITE-DEVIL/DSA/tree/master/2126-destroying-asteroids) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/1WHITE-DEVIL/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1WHITE-DEVIL/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1WHITE-DEVIL/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/1WHITE-DEVIL/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
