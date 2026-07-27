@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/1WHITE-DEVIL/DSA/tree/master/1390-four-divisors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/1WHITE-DEVIL/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/1WHITE-DEVIL/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/1WHITE-DEVIL/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1200-minimum-absolute-difference](https://github.com/1WHITE-DEVIL/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/1WHITE-DEVIL/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1WHITE-DEVIL/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/1WHITE-DEVIL/DSA/tree/master/2126-destroying-asteroids) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/1WHITE-DEVIL/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1WHITE-DEVIL/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/1WHITE-DEVIL/DSA/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Data Stream
 |  |
 | ------- |
