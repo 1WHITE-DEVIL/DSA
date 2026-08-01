@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/1WHITE-DEVIL/DSA/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1WHITE-DEVIL/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/1WHITE-DEVIL/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/1WHITE-DEVIL/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/1WHITE-DEVIL/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/1WHITE-DEVIL/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/1WHITE-DEVIL/DSA/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/1WHITE-DEVIL/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/1WHITE-DEVIL/DSA/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/1WHITE-DEVIL/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/1WHITE-DEVIL/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/1WHITE-DEVIL/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0788-rotated-digits) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/1WHITE-DEVIL/DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/1WHITE-DEVIL/DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/1WHITE-DEVIL/DSA/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -592,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/1WHITE-DEVIL/DSA/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/1WHITE-DEVIL/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
