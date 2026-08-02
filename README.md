@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/1WHITE-DEVIL/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/1WHITE-DEVIL/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/1WHITE-DEVIL/DSA/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/1WHITE-DEVIL/DSA/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/1WHITE-DEVIL/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/1WHITE-DEVIL/DSA/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/1WHITE-DEVIL/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/1WHITE-DEVIL/DSA/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/1WHITE-DEVIL/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/1WHITE-DEVIL/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/1WHITE-DEVIL/DSA/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/1WHITE-DEVIL/DSA/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1WHITE-DEVIL/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -600,4 +603,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/1WHITE-DEVIL/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/1WHITE-DEVIL/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
