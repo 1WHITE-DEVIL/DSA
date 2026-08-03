@@ -1,9 +1,5 @@
 class Solution {
 public:
-    int gcd(int a , int b){
-        if(b==0) return a;
-        return gcd(b , a%b);
-    }
     long long maxPairStrength(vector<int>& nums) {
         long long ans = 1 ;
         for(int i = 0 ; i < nums.size();i++){
