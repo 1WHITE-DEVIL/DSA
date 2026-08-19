@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/1WHITE-DEVIL/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/1WHITE-DEVIL/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/1WHITE-DEVIL/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/1WHITE-DEVIL/DSA/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/1WHITE-DEVIL/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/1WHITE-DEVIL/DSA/tree/master/0875-koko-eating-bananas) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/1WHITE-DEVIL/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/1WHITE-DEVIL/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/1WHITE-DEVIL/DSA/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/1WHITE-DEVIL/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/1WHITE-DEVIL/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/1WHITE-DEVIL/DSA/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/1WHITE-DEVIL/DSA/tree/master/1013-fibonacci-number) |
